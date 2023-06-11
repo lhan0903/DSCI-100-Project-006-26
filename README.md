@@ -10,10 +10,10 @@ There are a number of different factors that are attributed to different species
 
 We want to predict the species of an iris flower given its:
 
-- sepal length in cm
-- sepal width in cm
-- petal length in cm
-- petal width in cm
+- sepal length in centimeters
+- sepal width in centimeters
+- petal length in centimeters
+- petal width in centimeters
 
 
 We will be using the Iris data set found on https://archive.ics.uci.edu/ml/datasets/iris. This set contains 3 classes of 50 instances each, where each class refers to a species of iris plant. The species are Iris Setosa, Iris Versicolour, and Iris Virginica
